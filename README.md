@@ -1,4 +1,4 @@
-# django-telegram-bot
+# octopus
 Telegram-bot for tracking health indicators (Django+PostgreSQL) and getting analysis based on this data.
 
 
@@ -7,8 +7,8 @@ Telegram-bot for tracking health indicators (Django+PostgreSQL) and getting anal
 
 
 ``` bash
-git clone https://github.com/ohld/django-telegram-bot
-cd django-telegram-bot
+git clone https://github.com/annachul/octopus
+cd octopus
 ```
 
 Create virtual environment (optional)
