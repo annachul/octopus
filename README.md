@@ -39,8 +39,4 @@ python run_pooling.py
 ```
 
 
-## Deploy to Production 
 
-Read Wiki page on how to [deploy production-ready](https://github.com/ohld/django-telegram-bot/wiki/Production-Deployment-using-Dokku) scalable Telegram bot using Dokku.
-
-----
